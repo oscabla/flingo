@@ -221,7 +221,7 @@ header.masthead p {
 .portfolio-box {
   position: relative;
   display: block;
-  max-width: 650px;
+  max-width: 80%;
   margin: 0 auto;
 }
 
@@ -309,4 +309,7 @@ header.masthead p {
 
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(34, 150, 163, 0.5) !important;
+}
+.modal-content {
+  width: 80%;
 }
